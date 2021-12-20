@@ -1,0 +1,50 @@
+body{background-color: white;}
+h1{color: red; text-align: center ;
+    text-shadow: 2px 2px orange;}
+#backsign{position: relative; width: 200px;}
+#h2index{color:black; text-align: justify;}
+#h3index{color: black; text-align: center; text-shadow: 2px 2px gray;}
+#deadline{margin: auto; width: 200px; position:relative ;left: 550px;}
+#info1{position: static; text-align: center;}
+#p1{position: relative; text-align: center;}
+#map{margin: auto; position: relative;left: 170px; z-index: -1;}
+#latinamerica{position: absolute; z-index: 1; margin-top: 100px; width: 1000px; right:140px}
+#india{position: absolute; z-index: 1; margin-top: 400px; width: 80px; right:400px;}
+#africa{position: absolute; z-index: 1; margin-top: 350px; width: 180px; right:525px}
+#info2{position: static; text-align: center; font-size: xx-small; font-style: italic; margin: 0px;}
+#Ideas{margin:auto; position: relative; left: 275px;}
+#h2cat{text-align: center;}
+#pc{text-align: center; font-size: medium;}
+#Catho{margin: auto; width: auto; position:relative ;left: 450px;}
+#videoc{position: relative;margin: auto; left: 450px;}
+#pvideoc{text-align: center;z-index: 1;}
+#Allah{position: relative; margin: auto; width: 200px; left:550px;}
+#h4islam{text-align: center;font-size: large;color: red;}
+#pi{text-align: center;font-size: medium;}
+#backsignIslam{position:relative; width: 200px; right:200px}
+#h3b{text-align: center;}
+#budd1{position: relative;margin: auto; left:200px}
+#h3ideas{text-align: center; font-size: xx-large; color: red;}
+#c1{position: relative;margin: auto; width: 200px; left: 575px;}
+#audio{ position: static; margin-top: auto; left:275px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:link{color: blueviolet}
+a:visited{color:black}
+a:hover{font-size: 1.5em}
